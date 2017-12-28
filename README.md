@@ -1,9 +1,10 @@
 # YouTube Downloader
-Utility for downloading youtube videos
+Utility for downloading Youube videos
 
 Done:
 - downloading single video;
+- downloading playlist;
 
 Plans:
-- downloading playlist
-- progress bar
+- progress bar;
+- downloading options;
