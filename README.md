@@ -1,5 +1,5 @@
 # YouTube Downloader
-Utility for downloading Youube videos
+Utility for downloading YouTube videos
 
 Done:
 - downloading single video;
